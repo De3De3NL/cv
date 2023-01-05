@@ -1,0 +1,29 @@
+body {
+  background-color: #202d36;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top: 5px #dfb3ae dotted;
+  background-color: #23292e;
+
+  width: 3%;
+}
+
+h1 {
+  color: #f8897f;
+}
+
+h3 {
+  color: #f3bdbd;
+}
+
+a:visited {
+  color: #fffce3;
+}
+
+body {
+  color: #ddded9;
+  font-family: josefin;
+}
