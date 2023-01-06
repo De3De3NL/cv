@@ -77,3 +77,11 @@ a {
   float: right;
   margin-right: 30px;
 }
+
+hr {
+  background-color: #eaf6f6;
+  border-style: none;
+  border-top: 5px #dfb3ae dotted;
+  margin-top: 60px;
+  width: 3%;
+}
